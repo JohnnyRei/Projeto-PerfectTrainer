@@ -1,2 +1,2 @@
-## 💪 Perfect-Trainer
-Projeto da criação de um site onde e possível o cliente conseguir contratar os serviços de personal trainers listados on-line.
+## Perfect-Trainer
+Projeto da criação de um site onde e possível conseguir contratar os serviços de personal trainers listados on-line.
